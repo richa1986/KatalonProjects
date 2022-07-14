@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "91A2F4C7DFB587ED35835B67967E8A5D",
+  "keywordClasses": [
+    {
+      "name": "DrownKeywords",
+      "keywordMethods": [
+        {
+          "name": "makeHello",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "registerName",
+          "parameters": [
+            {
+              "name": "name",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
